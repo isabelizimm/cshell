@@ -1,2 +1,2 @@
-# castle_by_the_C
+# cshell 🐚
 a sandbox for learning about R&lt;>C interactions
